@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Web Development",
+    "price": "6,500",
+    "detail": "Learn web development to create dynamic and interactive websites and web applications",
+    "image": "./web-development.jpg"
+  },
+  {
+    "name": "MongoDB",
+    "price": "3,500",
+    "detail": "Discover MongoDB to harness the flexibility of NoSQL databases for scalable and high-performance data storage",
+    "image": "./mongoDB.jpg"
+  },
+  {
+    "name": "React",
+    "price": "3,500",
+    "detail": "Master React to build efficient and interactive user interfaces for web and mobile applications.",
+    "image": "./react.jpg"
+  },
+  {
+    "name": "C Programming",
+    "price": "2,500",
+    "detail": "Master the fundamentals of C programming and build a solid foundation for software development",
+    "image": "./c-programming.png"
+  },
+  {
+    "name": "Python",
+    "price": "4,700",
+    "detail": "Learn Python programming from scratch and become proficient in one of the most versatile and widely-used programming languages.",
+    "image": "./python.jpg"
+  },
+  {
+    "name": "Java",
+    "price": "3,500",
+    "detail": "Explore Java programming to develop versatile applications for web, mobile, and more.",
+    "image": "./java.jpg"
+  },
+  {
+    "name": "C++ Course",
+    "price": "35,00",
+    "detail": "Unlock the power of C++ programming for high-performance software development and system-level programming",
+    "image": "./c++.jpg"
+  }
+  
+]
